@@ -18,12 +18,6 @@
 - SQL
 
 
-\```bash
-# Example commands for setup
-\```
-
-
-
 ## Future Scope
 
 Ideas for future development, like:
